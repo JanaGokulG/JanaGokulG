@@ -1,6 +1,6 @@
 # Hi, I'm Jana 👋
 
-💻 MSc Software | Python & C++ Developer | Aspiring Student
+💻 MSc Software | Python & C++ Developer | Aspiring Student  
 I love building **Python applications, GUI projects**, while exploring **data structures, algorithms, and embedded systems**.
 
 ---
@@ -11,32 +11,44 @@ I love building **Python applications, GUI projects**, while exploring **data st
 - **Web Development:** HTML, CSS, Flask  
 - **Databases & Data Handling:** MySQL, JSON  
 - **Tools & Frameworks:** Git, Arduino, Tkinter, Qt  
-- **Other Interests:**  Algorithmic Problem Solving  
+- **Other Interests:** Algorithmic Problem Solving  
 
 ---
 
 ## 📝 Projects
 
 - **Text Editor** – Tkinter-based editor with spell check, auto-complete, formatting, and clipboard history.  
-- **Bank Management System** – a terminal based application using datastructures like hashmap,bloom filter,..  
-- **currency convertor** -a basic website with api to convert currency from one country to other
-- **auto trading system** -a python based project helps us to decide when to buy or sell stocks using yfinance module
+- **Bank Management System** – a terminal-based application using data structures like hashmap, bloom filter, etc.  
+- **Currency Converter** – a basic website with API to convert currency between countries.  
+- **Auto Trading System** – a Python-based project that helps decide when to buy or sell stocks using the yfinance module.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Jana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanaGokulG&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JanaGokulG&layout=compact&theme=radical)  
+<table>
+<tr>
+<td>
+
+![Jana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanaGokulG&show_icons=true&theme=radical)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JanaGokulG&layout=compact&theme=radical)
+
+</td>
+</tr>
+</table>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JanaGokulG&theme=radical)
 
 ---
 
 ## 📫 Contact Me
 
-- Email: janagokul2007@gmail.com
-- LinkedIn: [linkedin.com/in/janagokulg](https://www.linkedin.com/in/janagokulg)   
-- GitHub: [github.com/JanaGokulG](https://github.com/JanaGokulG)  
+- Email: janagokul2007@gmail.com  
+- LinkedIn: [linkedin.com/in/janagokulg](https://www.linkedin.com/in/janagokulg)  
 
 ---
 
