@@ -30,12 +30,8 @@ I love building **Python applications, GUI projects**, while exploring **data st
 <tr>
 <td>
 
-![Jana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JanaGokulG&show_icons=true&theme=radical)
-
 </td>
 <td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JanaGokulG&layout=compact&theme=radical)
 
 </td>
 </tr>
