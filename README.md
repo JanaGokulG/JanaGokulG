@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jana 👋</h1>
+<h1 align="center">Hi there, I'm Jana Gokul G</h1>
 
 <p align="center">
   <b>Integrated M.Sc. Software Systems Student · Python Developer · Linux Enthusiast</b>
